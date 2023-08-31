@@ -15,8 +15,8 @@ Same using same algorithm used in  `Java command line duplichecker`. But added a
 
 
 ### To compile and run Java files:
-- Open a terminal and navigate to the directory where you saved the Java file.<br><br>
->**Note**: *Replace `FileName` with the actual name of the file in following steps.* 
+- Open a terminal and navigate to the directory where you saved the Java file.<br>
+>**Note**: *Replace `FileName` with the actual name of the file in following steps.* <br>
 - Compile the Java code using the `javac` command, <br>
 ```javac fileName.java```
 - Compile the Java code using the `javac` command, <br>
